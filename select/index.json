@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ミュージック・アワー",
-  "base_artist": "Porno Graffitti",
-  "createdAt": "2025-12-08T03:06:15.045249Z",
+  "base_track": "ミュージック・アワー  Ver.164",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2026-03-11T08:43:18.825913Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -47,34 +47,42 @@
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "ポルノグラフィティ『ミュージック・アワー』MUSIC VIDEO",
-      "artist": "Porno Graffitti",
-      "has_synced": true,
-      "path": "select/06_ポルノグラフィティ『ミュージック・アワー』MUSIC_VIDEO_Porno_Graffitti.lrc"
+      "title": "ミュージック･アワー",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/06_ミュージック・アワー_ポルノグラフィティ.txt"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "ミュージック･アワー",
+      "title": "ミュージック・アワー Ver.164",
       "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/07_ミュージック・アワー_ポルノグラフィティ.txt"
+      "has_synced": true,
+      "path": "select/07_ミュージック・アワー_Ver.164_ポルノグラフィティ.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "ミュージック・アワー Ver.164",
+      "title": "ミュージック・アワー",
       "artist": "ポルノグラフィティ",
       "has_synced": true,
-      "path": "select/08_ミュージック・アワー_Ver.164_ポルノグラフィティ.lrc"
+      "path": "select/08_ミュージック・アワー_ポルノグラフィティ.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
       "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
+      "artist": "PornoGraffitti",
+      "has_synced": false,
+      "path": "select/09_ミュージック・アワー_PornoGraffitti.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ポルノグラフィティ『ミュージック・アワー』MUSIC VIDEO",
+      "artist": "Porno Graffitti",
       "has_synced": true,
-      "path": "select/09_ミュージック・アワー_ポルノグラフィティ.lrc"
+      "path": "select/10_ポルノグラフィティ『ミュージック・アワー』MUSIC_VIDEO_Porno_Graffitti.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -83,78 +91,6 @@
       "artist": "ポルノグラフィティ",
       "has_synced": false,
       "path": "select/pl_01_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_02_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_03_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_04_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_05_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_06_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー Ver.164",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_07_ミュージック・アワー_Ver.164_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_08_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_09_ミュージック・アワー_ポルノグラフィティ.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "ミュージック・アワー",
-      "artist": "ポルノグラフィティ",
-      "has_synced": false,
-      "path": "select/pl_10_ミュージック・アワー_ポルノグラフィティ.txt"
     }
   ]
 }
